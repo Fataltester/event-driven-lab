@@ -1,0 +1,11 @@
+# Ignore Maven build output
+/target/
+/consumer-service/target/
+/producer-service/target/
+
+# Optional IDE files
+/.idea/
+*.iml
+
+# OS files
+.DS_Store
